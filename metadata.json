@@ -1,0 +1,6 @@
+{
+  "name": "Empire of Shadows",
+  "description": "Official server portfolio and interactive gaming sanctuary ruled by the ChuChu Gang with member metrics, loyalty survey, lucky spin wheel, and the legendary Zoro Bhabhi slap zone.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
